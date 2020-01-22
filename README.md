@@ -5,3 +5,4 @@ Testing pull push commandline
 new line 4
 new line 5
 test jira integration
+test commit without issue id
